@@ -1,0 +1,6 @@
+Aufgabe 3
+Als Benutzer möchte ich Einträge hinzufügen
+Als Benutzer möchte ich Einträge löschen
+Als Benutzer möchte ich nach einem Namen suchen können
+Als Benutzer möchte ich zwischen den abgespeicherten JSON Dateien switchen können
+Als Benutzer möchte ich auf Knopfdruck die Einträge switchen können
